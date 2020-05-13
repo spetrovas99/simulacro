@@ -1,0 +1,21 @@
+.App {
+}
+.Header{
+  text-align: center;
+padding-bottom: 3%;
+}
+.Juntos{
+display: flex;
+flex-direction: row;
+padding-left: 30%;
+padding-top: 3%;
+}
+.Antonimos{
+  padding-left: 10%;
+}
+.aux{
+  font-weight: bold; 
+}
+.Definiciones{
+  padding-left: 10%;
+}
